@@ -1,0 +1,35 @@
+# Переменные
+x := 42;
+y := 7;
+result := ?(x y *);
+
+# Словари
+db_config := {
+  host : @"localhost";
+  port : 5432;
+  user : @"sandal58";
+  password : @"sanyok";
+};
+
+app_config := {
+  app_name : @"Booble";
+  version : @"1.0.0";
+};
+
+
+# Выражения
+sum_result := ?(x y +);
+nested_expr := ?(sum_result 3 *);
+
+clr1 := {
+  window: @"white";
+  header: @"blue";
+};
+
+clr2 := {
+  text: @"black";
+  button: @"green";
+};
+
+system_colors := ?(clr1 clr2 +);
+system colors2 := ?(system_colors clr2 -);

@@ -1,0 +1,38 @@
+x = 42
+
+y = 7
+
+result = 294
+
+
+[db_config]
+host = "localhost"
+port = 5432
+user = "sandal58"
+password = "sanyok"
+
+
+[app_config]
+app_name = "Booble"
+version = "1.0.0"
+
+
+
+sum_result = 49
+
+nested_expr = 147
+
+
+[clr1]
+window = "white"
+header = "blue"
+
+
+[clr2]
+text = "black"
+button = "green"
+
+
+system_colors = {'window': 'white', 'header': 'blue', 'text': 'black', 'button': 'green'}
+
+system colors2 = {'window': 'white', 'header': 'blue'}
