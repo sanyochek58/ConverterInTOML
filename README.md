@@ -90,14 +90,19 @@ output.toml - выходной файл конвертации в язык TOML
 
 
 <img width="1440" alt="Снимок экрана 2024-12-12 в 22 18 12" src="https://github.com/user-attachments/assets/666bf6f7-b6b4-444e-8197-a3b7cf3bfa8e" />
+
 Пример конфигурационного языка
 
 
 <img width="1440" alt="Снимок экрана 2024-12-12 в 22 19 02" src="https://github.com/user-attachments/assets/582e5525-f974-4602-8fad-c2d80386ee57" />
+
 Выходной файл
 
 
+
+
 <img width="575" alt="Снимок экрана 2024-12-12 в 22 20 14" src="https://github.com/user-attachments/assets/72e527e7-ab5d-4463-8835-80f08ea43b83" />
+
 Выполнение тестов
 
 
