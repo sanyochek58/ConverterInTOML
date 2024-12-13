@@ -89,7 +89,8 @@ output.toml - выходной файл конвертации в язык TOML
 Тестирование:
 
 
-<img width="1440" alt="Снимок экрана 2024-12-12 в 22 18 12" src="https://github.com/user-attachments/assets/666bf6f7-b6b4-444e-8197-a3b7cf3bfa8e" />
+<img width="1440" alt="Снимок экрана 2024-12-13 в 13 36 25" src="https://github.com/user-attachments/assets/c4ed9a32-d5a8-4cc0-8cb6-4e8a2af64607" />
+
 
 Пример конфигурационного языка
 
