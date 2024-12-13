@@ -88,14 +88,28 @@ output.toml - выходной файл конвертации в язык TOML
 
 Тестирование:
 
+<img width="330" alt="Снимок экрана 2024-12-13 в 13 38 50" src="https://github.com/user-attachments/assets/f87fbe6a-8ccf-405f-861e-c8221d952c93" />
 
-<img width="1440" alt="Снимок экрана 2024-12-13 в 13 36 25" src="https://github.com/user-attachments/assets/c4ed9a32-d5a8-4cc0-8cb6-4e8a2af64607" />
+
+<img width="707" alt="Снимок экрана 2024-12-13 в 13 39 29" src="https://github.com/user-attachments/assets/91abb3e1-577a-475e-bb91-250795afb9bb" />
+
+
+<img width="1005" alt="Снимок экрана 2024-12-13 в 13 39 58" src="https://github.com/user-attachments/assets/4d856b6d-44fa-4dd9-aa86-8bdc156c6225" />
 
 
 Пример конфигурационного языка
 
 
-<img width="1440" alt="Снимок экрана 2024-12-13 в 13 32 35" src="https://github.com/user-attachments/assets/40c14e8b-b580-4077-9b20-dbc062020259" />
+<img width="471" alt="Снимок экрана 2024-12-13 в 13 40 39" src="https://github.com/user-attachments/assets/0b4867b6-c6f9-4b61-87af-1d3d4d62a4ff" />
+
+
+<img width="227" alt="Снимок экрана 2024-12-13 в 13 41 05" src="https://github.com/user-attachments/assets/504d7089-e41d-45b2-a4a5-50db29ba3bfe" />
+
+
+<img width="694" alt="Снимок экрана 2024-12-13 в 13 41 46" src="https://github.com/user-attachments/assets/f7609e38-58f3-47b0-ad68-368cba23dce7" />
+
+
+
 
 
 Выходной файл
